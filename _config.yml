@@ -6,6 +6,7 @@
 title: Tech & Life
 subtitle:
 description:
+keywords:
 author: tbin987
 language: en
 timezone:
@@ -42,7 +43,16 @@ highlight:
   line_number: true
   auto_detect: false
   tab_replace:
-
+  
+# Home page setting
+# path: Root path for your blogs index page. (default = '')
+# per_page: Posts displayed per page. (0 = disable pagination)
+# order_by: Posts order. (Order by date descending by default)
+index_generator:
+  path: ''
+  per_page: 5
+  order_by: -date
+  
 # Category & Tag
 default_category: uncategorized
 category_map:
@@ -77,9 +87,6 @@ deploy:
   branch: master
   message: 
 
-
-index_generator:
-  per_page: 5
 
 archive_generator:
   per_page: 20

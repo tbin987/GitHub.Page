@@ -82,7 +82,7 @@ cheers:
   great: 非常好
   excellent: 非常屌
 
-keep_on: 持續更新中。
+keep_on: 繼續努力。
 
 symbol:
   comma: '， '
@@ -90,7 +90,7 @@ symbol:
   colon: '：'
 
 reward:
-  donate: 贊助
+  donate: 打賞
   wechatpay: 微信支付
   alipay: 支付寶
   bitcoin: 比特幣
