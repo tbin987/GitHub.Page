@@ -34,7 +34,7 @@ default_layout: post
 titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
 filename_case: 0
-render_drafts: false
+render_drafts: true
 post_asset_folder: false
 relative_link: false
 future: true
@@ -78,6 +78,18 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: next
+
+
+plugins:
+# - hexo-tag-flickr
+
+# Flickr API key
+flickr_api_key: 1676a5b217ca294e20df78c569b53e2f
+
+# Enable Cache file
+flickr_cache_file_path: hexo-tag-flickr-cache.json
+flickr_cache_expires: 2592000000
+
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
