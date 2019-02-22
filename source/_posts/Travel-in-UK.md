@@ -41,6 +41,15 @@ date: 2018-05-27 14:52:00
     {% flickr 39236550524 m %}
   - 樂高倫敦旗艦店 (Lego)
     {% flickr 27322841019 m %}
+  - 攝政公園 (Regent Park)
+    {% flickr 42665782484 m %}
+    - Queen Mary's Rose Garden
+      {% flickr 43382386661 m %}
+  - 大英自然歷史博物館 (British Natural History Museum)
+    {% flickr 43335855542 m %}
+  - 肯辛頓宮 (Kensington Palace)
+    {% flickr 41574611940 m %}
+  
 
 ## 英格蘭地區
   - 科爾切斯特 (Colchester)
@@ -63,9 +72,21 @@ date: 2018-05-27 14:52:00
   - 約克 (York)
     - 肉鋪街 (The Shambles)
       {% flickr 39048688975 m %}
+  - 湖區 (Lake District)
+    {% flickr 29512085348 m %}
+    - The World of Beatrix Potter Attraction
+      {% flickr 42477939615 m %}
+  - 科茲窩 (Cotswolds)
+    {% flickr 28513287907 m %}
+  - 利茲 (Leeds)
+    {% flickr 42666975874 m %}
+  - 索爾泰爾 (Saltaire)
+    {% flickr 43335193182 m %}
+  - 切斯特 (Chester)
+    {% flickr 28514092907 m %}
 
 ## 蘇格蘭
-  - Caledonian Sleeper
+  - Caledonian Sleeper 臥舖列車
     {% flickr 28167001649 m %}
   - 愛丁堡 (Edingburg)
     - 卡爾頓山(Calton Hill)
@@ -92,6 +113,10 @@ date: 2018-05-27 14:52:00
   - 臥舖列車初體驗
   - 愛丁堡之旅
   - 約克肉鋪街
+  - 湖區
+  - 大英自然歷史博物館
+  - 倫敦西區音樂劇
+  - 切斯特
 
 
 --------
@@ -99,9 +124,19 @@ date: 2018-05-27 14:52:00
 # <a name="foods">美食</a>
   - Holiday Inn Colchester
   - Nando's 葡式烤雞
-  - Burger & Lobster
+  - Flat Iron 牛排
+    {% flickr 43334234952 m %}
+  - Burger & Lobster 龍蝦
+    {% flickr 24239386137 m %}
   - Mussel Inn (Edinburgh) 鮮甜淡菜
+    {% flickr 39946683281 m %}
   - Dr Chippys 炸魚薯條 (Colchester)
+  - Bettys Café Tea Rooms 英式下午茶
+    {% flickr 43334891672 m %}
+  - Picanha Grill 巴西烤肉吃到飽
+    {% flickr 41575805050 m %}
+  - Big Easy 大啖龍蝦海鮮
+    {% flickr 33108337998 m %}
 
 
 
